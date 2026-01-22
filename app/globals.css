@@ -1,5 +1,7 @@
-html, body {
-  background-color: black;
+@import "tailwindcss";
+
+html, body, #__next {
+  background-color: white;
 
   width: 100vw;
   height: 100vh;
